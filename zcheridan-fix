@@ -1,7 +1,6 @@
+
 public class TenPinAmericanBowling{
-    
-    //char[2] frame = new char[2];
-    //String s = "X7/9-X-88/-6XXX81";
+   
     public static void main(String []args){
         // String s = "X7/9-X-88/-6XXX81";
         // String s = "9-9-9-9-9-9-9-9-9-9-";
